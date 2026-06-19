@@ -220,7 +220,7 @@ This was critical to prevent context mixing and maintain accurate, submission-sp
 
 ## Author
 
-**Geethika Tammineni**
+**Geethika Nagasri Tammineni**
 
 Aspiring Software Engineer | Backend Development | AI Systems
 
